@@ -46,7 +46,7 @@ There are too many things to comment on the results for make an extensive discus
 * From shallow areas we are able to recover Gabor-like features and simple but intrincate textured
 * From deeper areas (IT) we can see how monkey-like figures and faces start to arise, which is an important sanity check, as IT tends to be most excited about faces.
 
-The fittings and the most exciting iamges can be checked here: 
+The fittings and the most exciting iamges can be checked [here](https://drive.google.com/drive/folders/1R4NGEX2bCBG6EWFOj9iXlHqUvZerZ2tG?usp=share_link)
 
 
 ## Part 4: TO DO...
