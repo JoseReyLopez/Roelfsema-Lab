@@ -1,0 +1,16 @@
+neurons_per_roi = {1: 43,   # Key: Roi number    Values: number of active neurons
+ 2: 62,
+ 3: 55,
+ 4: 50,
+ 5: 51,
+ 7: 53,
+ 8: 60,
+ 9: 43,
+ 10: 44,
+ 11: 53,
+ 12: 29,
+ 13: 17,
+ 14: 24,
+ 15: 59,
+ 16: 24,
+ }
